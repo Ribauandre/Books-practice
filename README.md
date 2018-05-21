@@ -1,5 +1,4 @@
 # Books-practice
-Ist 242 work
-Couse Work
+IST, Couse Work
 
-to create a full stack library app utilizing Java Swing
+To create logic using basic OOP methodologies and implementing it into a functional Library application.
